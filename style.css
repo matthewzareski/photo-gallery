@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+.main img {
+width: 300px;
+height: 300px;
+}
+
+.main {
+    display: flex;
+    margin-left: 300px;
+}
